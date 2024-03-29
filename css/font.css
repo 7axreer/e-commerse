@@ -1,0 +1,29 @@
+@font-face {
+    font-family: "SF-Pro-Display-Regular";
+    src: url(../font/San_Francisco/SF-Pro-Display-Regular.otf);
+}
+
+@font-face {
+    font-family: 'SF-Pro-Display-Medium';
+    src: url(../font/San_Francisco/SF-Pro-Display-Medium.otf);
+}
+
+@font-face {
+    font-family: 'SF-Pro-Display-Semibold';
+    src: url(../font/San_Francisco/SF-Pro-Display-Semibold.otf);
+}
+
+@font-face {
+    font-family: 'SF-Pro-Display-Bold';
+    src: url(../font/San_Francisco/SF-Pro-Display-Bold.otf);
+}
+
+@font-face {
+    font-family: 'NotoSans-Regular';
+    src: url(../font/Noto_Sans/NotoSans-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'NotoSans-SemiBold';
+    src: url(../font/Noto_Sans/NotoSans-SemiBold.ttf);
+}
